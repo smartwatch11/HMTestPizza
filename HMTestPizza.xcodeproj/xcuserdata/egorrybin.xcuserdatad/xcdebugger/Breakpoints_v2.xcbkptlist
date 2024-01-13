@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "275026EE-6399-4C4E-8F16-F5FDDB08433B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D25EE4F0-3D11-4B62-A86E-35511DD3122A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HMTestPizza/Menu/Presenters/MenuPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getItems()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D25EE4F0-3D11-4B62-A86E-35511DD3122A - 2b48165130c5e849"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;HMTestPizza.ItemModel&gt;) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in HMTestPizza.MenuPresenter.getItems() -&gt; ()"
+                  moduleName = "HMTestPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/HMTestPizza/HMTestPizza/Menu/Presenters/MenuPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1492">
+               </Location>
+               <Location
+                  uuid = "D25EE4F0-3D11-4B62-A86E-35511DD3122A - 2b48165130c5e849"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;HMTestPizza.ItemModel&gt;) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in HMTestPizza.MenuPresenter.getItems() -&gt; ()"
+                  moduleName = "HMTestPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/HMTestPizza/HMTestPizza/Menu/Presenters/MenuPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1544">
+               </Location>
+               <Location
+                  uuid = "D25EE4F0-3D11-4B62-A86E-35511DD3122A - 2b48165130c5e849"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;HMTestPizza.ItemModel&gt;) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in HMTestPizza.MenuPresenter.getItems() -&gt; ()"
+                  moduleName = "HMTestPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/HMTestPizza/HMTestPizza/Menu/Presenters/MenuPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1548">
+               </Location>
+               <Location
+                  uuid = "D25EE4F0-3D11-4B62-A86E-35511DD3122A - 2b48165130c5e80b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;HMTestPizza.ItemModel&gt;) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in HMTestPizza.MenuPresenter.getItems() -&gt; ()"
+                  moduleName = "HMTestPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/HMTestPizza/HMTestPizza/Menu/Presenters/MenuPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1268">
+               </Location>
+               <Location
+                  uuid = "D25EE4F0-3D11-4B62-A86E-35511DD3122A - 2b48165130c5e86a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;HMTestPizza.ItemModel&gt;) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in HMTestPizza.MenuPresenter.getItems() -&gt; ()"
+                  moduleName = "HMTestPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/HMTestPizza/HMTestPizza/Menu/Presenters/MenuPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1120">
+               </Location>
+               <Location
+                  uuid = "D25EE4F0-3D11-4B62-A86E-35511DD3122A - 2b48165130c5e98f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;HMTestPizza.ItemModel&gt;) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in HMTestPizza.MenuPresenter.getItems() -&gt; ()"
+                  moduleName = "HMTestPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/HMTestPizza/HMTestPizza/Menu/Presenters/MenuPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA08F1E8-3490-4183-9CBA-21EBD7ECB650"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HMTestPizza/Menu/Presenters/MenuPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "getItems()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38AE19BF-4A2D-4D5B-85B5-C942E36C7811"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HMTestPizza/Services/ImagesFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "takeImages(urls:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEC89E70-0AAD-4C8C-81D3-99B65ACFDA0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HMTestPizza/Services/ImagesFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ImagesFetcher"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9ADA2A2D-66D1-4511-B58F-EA708EED6187"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HMTestPizza/Menu/Vews/MenuViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E4F3090-00CD-43CE-9DD3-A44C9288CAF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HMTestPizza/Menu/Vews/MenuViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5F83FC2-2BFC-4F1B-97AE-48D18C99AC35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HMTestPizza/Menu/Vews/MenuViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CDEADA5-359D-448F-9848-D39BC2D856DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HMTestPizza/Menu/Vews/MenuViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D02DA74B-D486-4FA6-A814-188206FA550F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HMTestPizza/Menu/Vews/CollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "categoryBtnTapped(sender:isScrolled:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D02DA74B-D486-4FA6-A814-188206FA550F - c0f82987c1ef6a48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of HMTestPizza.MenuViewController.categoryBtnTapped(sender: __C.UIButton, isScrolled: Swift.Bool) -&gt; ()"
+                  moduleName = "HMTestPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/HMTestPizza/HMTestPizza/Menu/Vews/CollectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "D02DA74B-D486-4FA6-A814-188206FA550F - 951c29179a5b43ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HMTestPizza.MenuViewController.categoryBtnTapped(sender: __C.UIButton, isScrolled: Swift.Bool) -&gt; ()"
+                  moduleName = "HMTestPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/HMTestPizza/HMTestPizza/Menu/Vews/CollectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDD41BA5-FD4A-480E-B70D-0F9915873FF2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HMTestPizza/Menu/Vews/CollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "categoryBtnTapped(sender:isScrolled:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
